@@ -6,4 +6,4 @@ Este es mi primer proyecto usando Git.
 - Aprendiendo Git paso a paso
   
 ## Última actualización
--   ditado desde GitHub web interface
+- Editado desde GitHub web interface
