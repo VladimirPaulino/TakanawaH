@@ -10,3 +10,6 @@ Este es mi primer proyecto usando Git.
 
 ## Información del proyecto
 Versión desarrollada en rama feature
+
+## Información del proyecto
+Versión desarrollada en rama main
